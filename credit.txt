@@ -1,1 +1,1 @@
-List all the transcations with the credit card. 
+List all the transcations with the credit card in Retail stores. 
